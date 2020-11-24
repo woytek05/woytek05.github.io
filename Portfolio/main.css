@@ -1,0 +1,75 @@
+body
+{
+	background-color: #2F3336;
+	color: #efefef;
+    font-family: 'Lato', sans-serif;
+    font-size: 17px;
+}
+
+#logo-portfolio
+{
+    text-align: center;
+    margin-top: 20px;
+	font-size: 44px;
+	letter-spacing: 5px;
+	font-weight: 700;
+}
+
+.nav-menu
+{
+    font-size: 20px;
+    display: inline;
+    margin-right: 12px;
+}
+
+nav
+{
+    text-align: center;
+}
+
+ul > li
+{
+    display: inline;
+    text-align: center;
+    margin-right: 30px;
+}
+
+.contact,
+.social,
+.four-columns-all-poster
+{
+    text-align: center;
+}
+
+.bg-dribble
+{
+    width: 24px; height: 24px;
+    float: left;
+    margin-right: 20px;
+    background: url('css_sprites.png') -98px -10px;
+}
+
+.bg-twitter
+{
+    width: 24px; height: 24px;
+    float: left;
+    background: url('css_sprites.png') -54px -10px;
+}
+
+.bg-facebook
+{
+    width: 24px; height: 24px;
+    float: left;
+    margin-right: 20px;
+    background: url('css_sprites.png') -10px -10px;
+}
+
+.contact
+{
+    margin-top: 40px;
+}
+
+.social
+{
+    margin-bottom: 30px;
+}
